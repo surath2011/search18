@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="36.63769">
+<testcase classname="Application Login" name="Search product in flipkaart" time="20.118171">
+<system-out><![CDATA[Given Navigate to flipkart..................................................passed
+When search for honor-9n....................................................passed
+And hit enter...............................................................passed
+Then goes to prod details...................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Application Login" name="Search product in flipkaart 2" time="16.519519">
+<system-out><![CDATA[Given Navigate to flipkart..................................................passed
+When search for iphone-7....................................................passed
+And hit enter...............................................................passed
+Then goes to prod details...................................................passed
+]]></system-out>
+</testcase>
+</testsuite>
